@@ -3,9 +3,8 @@ ESP-BLE-UDP forwarder
 
 Dependencies:
 -------------
-	* ESP-IDF [link](https://github.com/espressif/esp-idf).
- <<<   No space between ] and (  >>>
-
+	ESP-IDF [link](https://github.com/espressif/esp-idf).
+	
 Clone the code:
 ---------------
 	* git clone https://github.com/longcongduoi/esp32_ble_udpfwd.git
